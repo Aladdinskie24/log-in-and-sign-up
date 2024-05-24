@@ -187,7 +187,7 @@ const ToDoList: React.FC = () => {
           <p>Year: 3rd year</p>
           <p>Purpose of Developing this App: Final PT of the subject INFORMATION ASSURANCE SECURITY 2 (IAS2)</p>
           <p>Section: IT64 (IT36A)</p>
-          <p>Date Created: May 2024</p>
+          <p>Date Created: May 24 2024</p>
         </div>
       </footer>
     </IonPage>
